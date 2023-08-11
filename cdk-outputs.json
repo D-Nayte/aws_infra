@@ -1,7 +1,0 @@
-{
-  "AwsInfraStack": {
-    "ec2DNS": "ec2-3-127-223-123.eu-central-1.compute.amazonaws.com",
-    "ec2ID": "i-071103f4f81357bbb",
-    "region": "eu-central-1"
-  }
-}
